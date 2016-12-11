@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeView.mc" lineNum="5" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeView.mc" lineNum="6" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeView.mc" lineNum="10" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeView.mc" lineNum="11" pc="268435483" symbol="onLayout"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeView.mc" lineNum="17" pc="268435521" symbol="onShow"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeView.mc" lineNum="21" pc="268435526" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeView.mc" lineNum="23" pc="268435530" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeView.mc" lineNum="29" pc="268435551" symbol="onHide"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeMenuDelegate.mc" lineNum="6" pc="268435556" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeMenuDelegate.mc" lineNum="7" pc="268435560" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeMenuDelegate.mc" lineNum="10" pc="268435579" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeMenuDelegate.mc" lineNum="11" pc="268435583" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeMenuDelegate.mc" lineNum="12" pc="268435594" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeMenuDelegate.mc" lineNum="14" pc="268435629" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeDelegate.mc" lineNum="7" pc="268435654" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeDelegate.mc" lineNum="8" pc="268435658" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeDelegate.mc" lineNum="9" pc="268435676" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeDelegate.mc" lineNum="12" pc="268435687" symbol="onSelect"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeDelegate.mc" lineNum="13" pc="268435691" symbol="onSelect"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeDelegate.mc" lineNum="14" pc="268435723" symbol="onSelect"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeDelegate.mc" lineNum="15" pc="268435755" symbol="onSelect"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeDelegate.mc" lineNum="16" pc="268435787" symbol="onSelect"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeApp.mc" lineNum="8" pc="268435791" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeApp.mc" lineNum="9" pc="268435795" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeApp.mc" lineNum="10" pc="268435813" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeApp.mc" lineNum="11" pc="268435843" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeApp.mc" lineNum="14" pc="268435863" symbol="onLoop"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeApp.mc" lineNum="19" pc="268435868" symbol="onStart"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeApp.mc" lineNum="23" pc="268435873" symbol="onStop"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeApp.mc" lineNum="27" pc="268435878" symbol="getInitialView"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\SnakeApp.mc" lineNum="28" pc="268435882" symbol="getInitialView"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="15" pc="268435958" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="16" pc="268435962" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="17" pc="268435972" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="19" pc="268435982" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="26" pc="268435992" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="27" pc="268435996" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="28" pc="268436009" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="30" pc="268436075" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="31" pc="268436088" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="32" pc="268436137" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="33" pc="268436177" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="34" pc="268436187" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="35" pc="268436228" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="36" pc="268436244" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="38" pc="268436260" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="39" pc="268436287" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="40" pc="268436312" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="41" pc="268436349" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="42" pc="268436359" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="43" pc="268436387" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="44" pc="268436416" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="45" pc="268436432" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="47" pc="268436461" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="49" pc="268436471" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="52" pc="268436482" symbol="isOutOfBounds"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="53" pc="268436486" symbol="isOutOfBounds"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="56" pc="268436586" symbol="isEatingFruit"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="57" pc="268436590" symbol="isEatingFruit"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="60" pc="268436644" symbol="turnRight"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="61" pc="268436648" symbol="turnRight"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="64" pc="268436677" symbol="turnLeft"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="65" pc="268436681" symbol="turnLeft"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="68" pc="268436710" symbol="grow"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="69" pc="268436714" symbol="grow"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="72" pc="268436725" symbol="moveForward"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="73" pc="268436729" symbol="moveForward"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="74" pc="268436823" symbol="moveForward"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="75" pc="268436839" symbol="moveForward"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="76" pc="268436849" symbol="moveForward"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="78" pc="268436880" symbol="moveForward"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="79" pc="268436939" symbol="moveForward"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="82" pc="268436945" symbol="moveForward"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="83" pc="268436986" symbol="moveForward"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="84" pc="268437008" symbol="moveForward"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="86" pc="268437030" symbol="moveForward"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="88" pc="268437070" symbol="moveForward"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="89" pc="268437082" symbol="moveForward"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="90" pc="268437092" symbol="moveForward"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="91" pc="268437112" symbol="moveForward"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="93" pc="268437125" symbol="moveForward"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="94" pc="268437134" symbol="moveForward"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="95" pc="268437174" symbol="moveForward"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="96" pc="268437184" symbol="moveForward"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="98" pc="268437227" symbol="moveForward"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="99" pc="268437237" symbol="moveForward"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Snake.mc" lineNum="102" pc="268437256" symbol="moveForward"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="9" pc="268437260" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="10" pc="268437264" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="11" pc="268437282" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="12" pc="268437314" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="13" pc="268437350" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="16" pc="268437361" symbol="onLayout"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="17" pc="268437365" symbol="onLayout"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="20" pc="268437392" symbol="onCallback"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="21" pc="268437396" symbol="onCallback"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="22" pc="268437414" symbol="onCallback"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="25" pc="268437427" symbol="onShow"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="26" pc="268437431" symbol="onShow"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="27" pc="268437449" symbol="onShow"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="30" pc="268437491" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="31" pc="268437495" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="32" pc="268437515" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="33" pc="268437527" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="35" pc="268437567" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="36" pc="268437676" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="38" pc="268437785" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="39" pc="268437811" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="40" pc="268437829" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="41" pc="268437869" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="43" pc="268437912" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="44" pc="268438006" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="48" pc="268438025" symbol="onHide"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="49" pc="268438029" symbol="onHide"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="50" pc="268438047" symbol="onHide"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="51" pc="268438065" symbol="onHide"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameView.mc" lineNum="52" pc="268438097" symbol="onHide"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedView.mc" lineNum="7" pc="268438129" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedView.mc" lineNum="8" pc="268438133" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedView.mc" lineNum="9" pc="268438151" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedView.mc" lineNum="12" pc="268438162" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedView.mc" lineNum="13" pc="268438166" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedView.mc" lineNum="14" pc="268438186" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedView.mc" lineNum="15" pc="268438198" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedView.mc" lineNum="17" pc="268438238" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedView.mc" lineNum="18" pc="268438263" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedView.mc" lineNum="20" pc="268438288" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedView.mc" lineNum="21" pc="268438306" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedView.mc" lineNum="22" pc="268438326" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedView.mc" lineNum="24" pc="268438394" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedView.mc" lineNum="28" pc="268438472" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedView.mc" lineNum="29" pc="268438563" symbol="onUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedDelegate.mc" lineNum="7" pc="268438640" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedDelegate.mc" lineNum="8" pc="268438644" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedDelegate.mc" lineNum="9" pc="268438662" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedDelegate.mc" lineNum="12" pc="268438673" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedDelegate.mc" lineNum="13" pc="268438677" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedDelegate.mc" lineNum="14" pc="268438706" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedDelegate.mc" lineNum="15" pc="268438737" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedDelegate.mc" lineNum="19" pc="268438759" symbol="onNextPage"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedDelegate.mc" lineNum="20" pc="268438763" symbol="onNextPage"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedDelegate.mc" lineNum="21" pc="268438792" symbol="onNextPage"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameSpeedDelegate.mc" lineNum="22" pc="268438823" symbol="onNextPage"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameOptions.mc" lineNum="8" pc="268438845" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameOptions.mc" lineNum="9" pc="268438849" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameOptions.mc" lineNum="10" pc="268438862" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="15" pc="268438876" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="16" pc="268438880" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="17" pc="268438894" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="18" pc="268438912" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="22" pc="268438939" symbol="occupy"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="23" pc="268438943" symbol="occupy"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="26" pc="268438966" symbol="free"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="27" pc="268438970" symbol="free"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="30" pc="268438993" symbol="state"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="31" pc="268438997" symbol="state"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="34" pc="268439019" symbol="isOutOfBounds"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="35" pc="268439023" symbol="isOutOfBounds"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="36" pc="268439036" symbol="isOutOfBounds"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="39" pc="268439060" symbol="align"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="40" pc="268439064" symbol="align"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="41" pc="268439098" symbol="align"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="44" pc="268439133" symbol="fromGridToPixels"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="45" pc="268439137" symbol="fromGridToPixels"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="48" pc="268439213" symbol="drawBorder"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="49" pc="268439217" symbol="drawBorder"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="50" pc="268439261" symbol="drawBorder"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="53" pc="268439330" symbol="drawGrid"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="54" pc="268439334" symbol="drawGrid"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="55" pc="268439374" symbol="drawGrid"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="56" pc="268439374" symbol="drawGrid"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="57" pc="268439395" symbol="drawGrid"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="58" pc="268439416" symbol="drawGrid"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="59" pc="268439433" symbol="drawGrid"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="62" pc="268439497" symbol="drawGrid"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="65" pc="268439538" symbol="drawFruit"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="66" pc="268439542" symbol="drawFruit"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="68" pc="268439571" symbol="drawFruit"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="69" pc="268439621" symbol="drawFruit"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="70" pc="268439671" symbol="drawFruit"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="71" pc="268439721" symbol="drawFruit"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="74" pc="268439772" symbol="offsetToFillGap"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="75" pc="268439776" symbol="offsetToFillGap"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="76" pc="268439784" symbol="offsetToFillGap"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="77" pc="268439792" symbol="offsetToFillGap"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="79" pc="268439854" symbol="offsetToFillGap"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="82" pc="268439916" symbol="offsetToFillGap"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="83" pc="268439924" symbol="offsetToFillGap"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="85" pc="268439986" symbol="offsetToFillGap"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="90" pc="268440046" symbol="drawSnake"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="91" pc="268440050" symbol="drawSnake"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="93" pc="268440090" symbol="drawSnake"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="94" pc="268440100" symbol="drawSnake"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="95" pc="268440100" symbol="drawSnake"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="96" pc="268440100" symbol="drawSnake"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="99" pc="268440114" symbol="drawSnake"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="100" pc="268440224" symbol="drawSnake"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameMap.mc" lineNum="104" pc="268440237" symbol="drawSnake"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameDelegate.mc" lineNum="7" pc="268440300" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameDelegate.mc" lineNum="8" pc="268440304" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameDelegate.mc" lineNum="9" pc="268440322" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameDelegate.mc" lineNum="12" pc="268440333" symbol="onNextPage"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameDelegate.mc" lineNum="13" pc="268440337" symbol="onNextPage"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameDelegate.mc" lineNum="14" pc="268440361" symbol="onNextPage"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameDelegate.mc" lineNum="17" pc="268440365" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameDelegate.mc" lineNum="18" pc="268440369" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\GameDelegate.mc" lineNum="19" pc="268440393" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Game.mc" lineNum="16" pc="268440397" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Game.mc" lineNum="17" pc="268440401" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Game.mc" lineNum="18" pc="268440410" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Game.mc" lineNum="19" pc="268440426" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Game.mc" lineNum="20" pc="268440448" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Game.mc" lineNum="21" pc="268440458" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Game.mc" lineNum="22" pc="268440471" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Game.mc" lineNum="27" pc="268440502" symbol="onStateUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Game.mc" lineNum="28" pc="268440506" symbol="onStateUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Game.mc" lineNum="29" pc="268440523" symbol="onStateUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Game.mc" lineNum="30" pc="268440557" symbol="onStateUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Game.mc" lineNum="31" pc="268440568" symbol="onStateUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Game.mc" lineNum="32" pc="268440600" symbol="onStateUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Game.mc" lineNum="34" pc="268440604" symbol="onStateUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Game.mc" lineNum="35" pc="268440632" symbol="onStateUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Game.mc" lineNum="36" pc="268440664" symbol="onStateUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Game.mc" lineNum="37" pc="268440690" symbol="onStateUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Game.mc" lineNum="39" pc="268440708" symbol="onStateUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Game.mc" lineNum="41" pc="268440748" symbol="onStateUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Game.mc" lineNum="43" pc="268440773" symbol="onStateUpdate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Game.mc" lineNum="46" pc="268440793" symbol="onStart"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Game.mc" lineNum="47" pc="268440797" symbol="onStart"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Game.mc" lineNum="48" pc="268440835" symbol="onStart"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Game.mc" lineNum="51" pc="268440874" symbol="onStop"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Fruit.mc" lineNum="5" pc="268440879" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Fruit.mc" lineNum="6" pc="268440883" symbol="initialize"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Fruit.mc" lineNum="9" pc="268440898" symbol="relocate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Fruit.mc" lineNum="10" pc="268440902" symbol="relocate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Fruit.mc" lineNum="11" pc="268440933" symbol="relocate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Fruit.mc" lineNum="13" pc="268440964" symbol="relocate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Fruit.mc" lineNum="14" pc="268440994" symbol="relocate"/>
+<entry filename="C:\\Users\\jdelacroix\\Documents\\Garmin\\workspace\\garmin-ciq-snake\\source\\Fruit.mc" lineNum="15" pc="268441025" symbol="relocate"/>
+<entry filename="Rez" lineNum="16" pc="268441060" symbol="initialize"/>
+<entry filename="Rez" lineNum="17" pc="268441064" symbol="initialize"/>
+<entry filename="Rez" lineNum="18" pc="268441082" symbol="initialize"/>
+<entry filename="Rez" lineNum="19" pc="268441134" symbol="initialize"/>
+<entry filename="Rez" lineNum="34" pc="268441187" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="36" pc="268441191" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="37" pc="268441354" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="38" pc="268441379" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="39" pc="268441431" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="40" pc="268441609" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="41" pc="268441634" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="42" pc="268441686" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="45" pc="268441732" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="34" method="true" symbol="onLoop"/>
+<entry field="true" id="49" symbol="GRID_PIXEL_OFFSET"/>
+<entry field="true" id="52" symbol="grid"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8388826" symbol="next"/>
+<entry field="true" id="48" symbol="GRID_PIXEL_WIDTH"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="11" object="true" symbol="SnakeApp"/>
+<entry id="75" method="true" symbol="moveForward"/>
+<entry field="true" id="8389642" symbol="title"/>
+<entry id="62" method="true" symbol="drawSnake"/>
+<entry id="33" method="true" symbol="onStateUpdate"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="39" object="true" symbol="MainMenu"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="78" symbol="pixel_y"/>
+<entry field="true" id="77" symbol="pixel_x"/>
+<entry id="23" method="true" symbol="relocate"/>
+<entry field="true" id="63" symbol="compass_direction"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="56" method="true" symbol="align"/>
+<entry id="40" method="true" symbol="MainLayout"/>
+<entry field="true" id="24" symbol="options"/>
+<entry field="true" id="69" symbol="tail"/>
+<entry id="58" method="true" symbol="drawBorder"/>
+<entry id="9" object="true" symbol="SnakeMenuDelegate"/>
+<entry field="true" id="25" symbol="snake"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="73" method="true" symbol="turnLeft"/>
+<entry id="8" object="true" symbol="SnakeView"/>
+<entry field="true" id="82" symbol="top_score"/>
+<entry field="true" id="47" symbol="GRID_PIXEL_HEIGHT"/>
+<entry field="true" id="64" symbol="compass_direction_offsets"/>
+<entry field="true" id="35" symbol="game"/>
+<entry field="true" id="30" symbol="overclock"/>
+<entry field="true" id="28" symbol="timer"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="44" symbol="AppName"/>
+<entry field="true" id="70" symbol="growth"/>
+<entry field="true" id="80" symbol="view"/>
+<entry id="15" object="true" symbol="GameSpeedDelegate"/>
+<entry field="true" id="65" symbol="body_length"/>
+<entry field="true" id="79" symbol="offset"/>
+<entry id="12" object="true" symbol="Snake"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
+<entry id="67" object="true" symbol="BodySegment"/>
+<entry id="60" method="true" symbol="drawFruit"/>
+<entry id="84" symbol="item_2"/>
+<entry id="83" symbol="item_1"/>
+<entry field="true" id="66" symbol="pixel_offsets"/>
+<entry field="true" id="38" symbol="LauncherIcon"/>
+<entry field="true" id="68" symbol="head"/>
+<entry field="true" id="42" symbol="menu_label_2"/>
+<entry field="true" id="41" symbol="menu_label_1"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="32" symbol="score"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="61" method="true" symbol="offsetToFillGap"/>
+<entry field="true" id="45" symbol="GRID_HEIGHT"/>
+<entry id="17" object="true" symbol="GameMap"/>
+<entry field="true" id="26" symbol="fruit"/>
+<entry id="18" object="true" symbol="GameDelegate"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="81" method="true" symbol="onCallback"/>
+<entry field="true" id="8388958" symbol="speed"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="10" object="true" symbol="SnakeDelegate"/>
+<entry id="19" object="true" symbol="Game"/>
+<entry id="37" module="true" symbol="Layouts"/>
+<entry field="true" id="43" symbol="prompt"/>
+<entry id="20" object="true" symbol="Fruit"/>
+<entry id="8389079" method="true" symbol="onPreviousPage"/>
+<entry field="true" id="51" symbol="top_left_y"/>
+<entry id="54" method="true" symbol="free"/>
+<entry field="true" id="50" symbol="top_left_x"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="29" symbol="tick"/>
+<entry id="59" method="true" symbol="drawGrid"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="27" symbol="map"/>
+<entry id="72" method="true" symbol="turnRight"/>
+<entry id="13" object="true" symbol="GameView"/>
+<entry id="57" method="true" symbol="fromGridToPixels"/>
+<entry id="55" method="true" symbol="isOutOfBounds"/>
+<entry field="true" id="31" symbol="is_game_over"/>
+<entry id="36" module="true" symbol="Menus"/>
+<entry field="true" id="46" symbol="GRID_WIDTH"/>
+<entry id="53" method="true" symbol="occupy"/>
+<entry id="16" object="true" symbol="GameOptions"/>
+<entry field="true" id="22" symbol="y"/>
+<entry field="true" id="21" symbol="x"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="71" method="true" symbol="isEatingFruit"/>
+<entry id="8389487" method="true" symbol="state"/>
+<entry id="74" method="true" symbol="grow"/>
+<entry id="14" object="true" symbol="GameSpeedView"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435790" name="view" stackId="1" startPc="268435691"/>
+<entry endPc="268435790" name="delegate" stackId="2" startPc="268435691"/>
+<entry endPc="268436461" name="i" stackId="4" startPc="268436287"/>
+<entry endPc="268436481" name="pxy" stackId="3" startPc="268435996"/>
+<entry endPc="268436481" name="current" stackId="2" startPc="268435996"/>
+<entry endPc="268437224" name="current" stackId="4" startPc="268437082"/>
+<entry endPc="268437259" name="pxy" stackId="3" startPc="268436729"/>
+<entry endPc="268437259" name="new_head" stackId="2" startPc="268436729"/>
+<entry endPc="268438472" name="i" stackId="4" startPc="268438306"/>
+<entry endPc="268438639" name="top_left_x" stackId="2" startPc="268438166"/>
+<entry endPc="268438639" name="top_left_y" stackId="3" startPc="268438166"/>
+<entry endPc="268438938" name="i" stackId="1" startPc="268438912"/>
+<entry endPc="268439059" name="i" stackId="3" startPc="268439023"/>
+<entry endPc="268439484" name="j" stackId="4" startPc="268439416"/>
+<entry endPc="268439497" name="i" stackId="3" startPc="268439395"/>
+<entry endPc="268439537" name="xy" stackId="2" startPc="268439334"/>
+<entry endPc="268439771" name="xy" stackId="3" startPc="268439542"/>
+<entry endPc="268440299" name="pxy" stackId="4" startPc="268440050"/>
+<entry endPc="268440299" name="offsets" stackId="5" startPc="268440050"/>
+<entry endPc="268440299" name="current" stackId="3" startPc="268440050"/>
+<entry endPc="268441759" name="rez_cmp_local_bitmap_LCPZTGNOZL" stackId="2" startPc="268441191"/>
+<entry endPc="268441759" name="rez_cmp_local_bitmap_LCPZTGNOZL_fontHeight" stackId="3" startPc="268441191"/>
+<entry endPc="268441759" name="rez_cmp_local_bitmap_K7QQ6ULWV8" stackId="4" startPc="268441191"/>
+<entry endPc="268441759" name="rez_cmp_local_bitmap_K7QQ6ULWV8_fontHeight" stackId="5" startPc="268441191"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="SnakeView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="SnakeView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="SnakeView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="SnakeView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="SnakeView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="SnakeMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="SnakeMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="SnakeDelegate">
+<param id="options"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onSelect" parent="SnakeDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="SnakeApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLoop" parent="SnakeApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="SnakeApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="SnakeApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="SnakeApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="BodySegment">
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="Snake">
+<param id="map"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="isOutOfBounds" parent="Snake">
+<documentation/>
+</functionEntry>
+<functionEntry name="isEatingFruit" parent="Snake">
+<param id="fruit"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="turnRight" parent="Snake">
+<documentation/>
+</functionEntry>
+<functionEntry name="turnLeft" parent="Snake">
+<documentation/>
+</functionEntry>
+<functionEntry name="grow" parent="Snake">
+<documentation/>
+</functionEntry>
+<functionEntry name="moveForward" parent="Snake">
+<param id="map"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="GameView">
+<param id="options"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="GameView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onCallback" parent="GameView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="GameView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="GameView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="GameView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="GameSpeedView">
+<param id="options"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="GameSpeedView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="GameSpeedDelegate">
+<param id="view"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousPage" parent="GameSpeedDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextPage" parent="GameSpeedDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="GameOptions">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="GameMap">
+<documentation/>
+</functionEntry>
+<functionEntry name="occupy" parent="GameMap">
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="free" parent="GameMap">
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="state" parent="GameMap">
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="isOutOfBounds" parent="GameMap">
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="align" parent="GameMap">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="fromGridToPixels" parent="GameMap">
+<param id="c_x"/>
+<param id="c_y"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawBorder" parent="GameMap">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawGrid" parent="GameMap">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawFruit" parent="GameMap">
+<param id="dc"/>
+<param id="fruit"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="offsetToFillGap" parent="GameMap">
+<param id="c_x"/>
+<param id="c_y"/>
+<param id="c_x_1"/>
+<param id="c_y_1"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawSnake" parent="GameMap">
+<param id="dc"/>
+<param id="snake"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="GameDelegate">
+<param id="game"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextPage" parent="GameDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousPage" parent="GameDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="Game">
+<param id="options"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStateUpdate" parent="Game">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="Game">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="Game">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="Fruit">
+<param id="map"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="relocate" parent="Fruit">
+<param id="map"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

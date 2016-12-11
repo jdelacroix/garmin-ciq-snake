@@ -1,3 +1,8 @@
 <layout id="MainLayout">
-    <label x="center" y="5" text="@Strings.prompt" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+    <label x="center" y="15" text="@Strings.title"
+    	color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER"
+    	font="Gfx.FONT_LARGE" />
+    <label
+    	x="center" y="center" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="@Strings.prompt" font="Gfx.FONT_TINY">
+</label>
 </layout>
